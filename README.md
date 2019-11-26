@@ -6,7 +6,7 @@ Binghamton is a mid-sized university and a [SUNY](https://www.suny.edu/campuses/
 The _Intergrative Neuroscience_ program is the study of the biology of behavior. Students who major in integrative neuroscience take a variety of courses across a number of departments. Most of the core courses are taken in the departments of psychology and biological sciences. There are other requirements met through courses in the mathematics, chemistry and physics departments, and students can select electives from departments such as anthropology, philosophy and history.
 
 #### Admission Requirements
-1. Apply Online
+1. Applying Online:
 [Common Application](https://www.commonapp.org/)
 [Suny Application](https://www.suny.edu/applysuny/)
 [Coalition Application](https://www.mycoalition.org/public/info/binghamton)
